@@ -7,5 +7,5 @@
 Proyek ini bertujuan untuk memprediksi risiko penyakit jantung berdasarkan data medis pasien menggunakan arsitektur Neural Network sederhana di Google Colab.
 
 ### Isi Repository
-- `Untitled4.ipynb`: File coding python.
+- `TUBES_DL_2318023_IraniLutfianiPutri.ipynb`: File coding python.
 - `heart.csv`: Dataset yang digunakan.
